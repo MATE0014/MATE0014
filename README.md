@@ -19,7 +19,10 @@
 
 ###
 
-<h4 align="center">👨‍💻 All of my projects are available at [moxitrewar.vercel.app](moxitrewar.vercel.app)</h4>
+<h4 align="center">
+  👨‍💻 All of my projects are available at 
+  <a href="https://moxitrewar.vercel.app" target="_blank">moxitrewar.vercel.app</a>
+</h4>
 
 ###
 
