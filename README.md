@@ -21,7 +21,7 @@
 
 <h4 align="center">
   👨‍💻 All of my projects are available at 
-  <a href="https://moxitrewar.vercel.app" target="_blank">moxitrewar.vercel.app</a>
+  <a href="https://moxitrewar.vercel.app" target="_blank">moxitrewar.me</a>
 </h4>
 
 ###
